@@ -1,1 +1,3 @@
 This is a sample text file to test devops
+
+This is an addition that should go into release
